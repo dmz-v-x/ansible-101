@@ -9,7 +9,7 @@ In previous sections we learned:
 
 Now we will extend that setup to **cloud infrastructure**, specifically **AWS EC2 instances**.
 
-Everything will be explained **step-by-step from beginner to production-level usage**.
+
 
 ---
 

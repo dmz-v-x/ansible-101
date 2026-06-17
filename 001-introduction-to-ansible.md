@@ -4,8 +4,6 @@ Infrastructure today is rarely a single server. Modern applications run on **mul
 
 This is where **automation tools** like **Ansible** become extremely important.
 
-Everything will be explained **from beginner to advanced level** in a logical order.
-
 ---
 
 ### 1. The Problem: Managing Servers Manually
